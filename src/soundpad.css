@@ -1,0 +1,21 @@
+.sound-pad {
+    background-color: rgb(125, 134, 5);
+    width: 7rem;
+    height: 7rem;
+    margin: 1rem;
+    padding: 1rem;
+    border: 3px outset rgb(125, 114, 114);
+}
+
+.sound-pad:hover {
+    background-color: rgb(255, 251, 0);
+    cursor: pointer;
+    transition: 500ms;
+}
+
+.sound-pad:focus{
+    background-color: rgb(27, 192, 178);
+    cursor: pointer;
+    border: 3px inset rgb(125, 114, 114);
+}
+

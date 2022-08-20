@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62014945.css",
+    "main.js": "/static/js/main.601b7119.js",
+    "static/js/845.7efce516.chunk.js": "/static/js/845.7efce516.chunk.js",
+    "static/media/sample16.wav": "/static/media/sample16.c2bd0c622575fb1c1fb5.wav",
+    "static/media/sample5.wav": "/static/media/sample5.072c0eb83e5291c4f1b1.wav",
+    "static/media/sample1.wav": "/static/media/sample1.c6469b6b8fbcba2bee85.wav",
+    "static/media/sample17.wav": "/static/media/sample17.a01acbf0419c9b5347bf.wav",
+    "static/media/sample3.wav": "/static/media/sample3.92c9ec34b51e749aa9fa.wav",
+    "static/media/sample22.wav": "/static/media/sample22.eede24885cfdef20ece8.wav",
+    "static/media/sample19.wav": "/static/media/sample19.2c65c0205b6afb9b51bd.wav",
+    "static/media/sample18.wav": "/static/media/sample18.4793ad84e469609a93cb.wav",
+    "static/media/sample21.wav": "/static/media/sample21.49b47cc72248129b99e2.wav",
+    "static/media/sample24.wav": "/static/media/sample24.5d38d2a3ecbf4f89a85c.wav",
+    "static/media/sample23.wav": "/static/media/sample23.3a6b49ad0c574b267a06.wav",
+    "static/media/sample6.wav": "/static/media/sample6.e907715fc63069ea54af.wav",
+    "static/media/sample9.wav": "/static/media/sample9.b1b8b75610707c23bc68.wav",
+    "static/media/sample12.wav": "/static/media/sample12.013f3b90e5924f2cd541.wav",
+    "static/media/sample20.wav": "/static/media/sample20.ca56b3a15c3855f09cfd.wav",
+    "static/media/sample10.wav": "/static/media/sample10.a26d45de2be27c9dc9ee.wav",
+    "static/media/sample7.wav": "/static/media/sample7.d4b7de04d1cafcfacc2b.wav",
+    "static/media/sample14.wav": "/static/media/sample14.e0363a981a7ddc72559e.wav",
+    "static/media/sample15.wav": "/static/media/sample15.54d8761d5853aff7571d.wav",
+    "static/media/sample4.wav": "/static/media/sample4.b89029b77ab6ead645d2.wav",
+    "static/media/sample2.wav": "/static/media/sample2.bd776d765cefaa22d619.wav",
+    "static/media/sample13.wav": "/static/media/sample13.31533a9c9ffd20bf3066.wav",
+    "static/media/sample0.wav": "/static/media/sample0.c8435ec2b503ac74a166.wav",
+    "static/media/sample11.wav": "/static/media/sample11.084ecaaee4b8935a163e.wav",
+    "static/media/sample8.wav": "/static/media/sample8.c769f76b21e99e63433e.wav",
+    "index.html": "/index.html",
+    "main.62014945.css.map": "/static/css/main.62014945.css.map",
+    "main.601b7119.js.map": "/static/js/main.601b7119.js.map",
+    "845.7efce516.chunk.js.map": "/static/js/845.7efce516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62014945.css",
+    "static/js/main.601b7119.js"
+  ]
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.App-body{
+  min-height: 100vh;
+  margin: 0;
+  padding: 1rem;
+  background-image: url("./img/background1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.App-header {
+  margin-bottom: 2rem;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
+
+.App-main{
+  background-color: rgba(100, 100, 100, 0.5);
+  min-width: 40rem;
+  padding: 1rem;
+}
+
+.PadsRow{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
