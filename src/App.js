@@ -13,7 +13,7 @@ function App() {
   return (
       <div className="App-body">
       <header className="App-header">
-        <h1>THE SIMPSONS Sampler</h1>
+        <h1 className="MainTitle">THE SIMPSONS Sampler</h1>
       </header>
       <div className="App-main">
       <div className="PadsRow">
